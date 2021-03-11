@@ -1,0 +1,3 @@
+include ':swastika_libs'
+include ':app'
+rootProject.name = "LibraryApplication"
