@@ -5,10 +5,12 @@
 			...
 			maven { url 'https://jitpack.io' }
 		}
+	
 	}
-  
-  
-  
-  dependencies {
+	dependencies {
 	        implementation 'com.github.dheeruswastika:smart_toaster:Tag'
 	}
+  
+  
+  
+
